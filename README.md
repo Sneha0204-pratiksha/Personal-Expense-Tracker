@@ -47,5 +47,4 @@ A simple **CLI-based Personal Expense Tracker** built in **Python** for the **Ev
 
 1. **Download or clone** this repository:
    ```bash
-   git clone https://github.com/<your-username>/PersonalExpenseTracker.git
-   cd PersonalExpenseTracker
+   https://github.com/Sneha0204-pratiksha/Personal-Expense-Tracker.git
